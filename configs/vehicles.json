@@ -1,0 +1,67 @@
+{
+    "Cars": {
+        "Tesla": {
+            "Model 3 Long Range": {"capacity_kwh": 75.0, "efficiency_wh_km": 150, "top_speed_kmh": 233, "price": 45000},
+            "Model Y Long Range": {"capacity_kwh": 75.0, "efficiency_wh_km": 165, "top_speed_kmh": 217, "price": 50000}
+        },
+        "Tata": {
+            "Nexon EV Max": {"capacity_kwh": 40.5, "efficiency_wh_km": 135, "top_speed_kmh": 140, "price": 20000}
+        },
+        "MG": {
+            "ZS EV": {"capacity_kwh": 50.3, "efficiency_wh_km": 145, "top_speed_kmh": 175, "price": 27000}
+        },
+        "Hyundai": {
+            "Ioniq 5": {"capacity_kwh": 72.6, "efficiency_wh_km": 170, "top_speed_kmh": 185, "price": 45000}
+        },
+        "BYD": {
+            "Atto 3": {"capacity_kwh": 60.48, "efficiency_wh_km": 160, "top_speed_kmh": 160, "price": 35000}
+        },
+        "Kia": {
+            "EV6": {"capacity_kwh": 77.4, "efficiency_wh_km": 165, "top_speed_kmh": 192, "price": 50000}
+        },
+        "Mahindra": {
+            "XUV400": {"capacity_kwh": 39.4, "efficiency_wh_km": 140, "top_speed_kmh": 150, "price": 19000}
+        },
+        "BMW": {
+            "i4 eDrive40": {"capacity_kwh": 80.7, "efficiency_wh_km": 161, "top_speed_kmh": 190, "price": 55000}
+        },
+        "Mercedes": {
+            "EQS 450+": {"capacity_kwh": 107.8, "efficiency_wh_km": 180, "top_speed_kmh": 210, "price": 105000}
+        },
+        "Porsche": {
+            "Taycan 4S": {"capacity_kwh": 93.4, "efficiency_wh_km": 210, "top_speed_kmh": 250, "price": 105000}
+        }
+    },
+    "Two-Wheelers": {
+        "Ola": {
+            "S1 Pro": {"capacity_kwh": 4.0, "efficiency_wh_km": 25, "top_speed_kmh": 116, "price": 1500}
+        },
+        "Ather": {
+            "450X": {"capacity_kwh": 3.7, "efficiency_wh_km": 28, "top_speed_kmh": 90, "price": 1800}
+        },
+        "TVS": {
+            "iQube ST": {"capacity_kwh": 5.1, "efficiency_wh_km": 30, "top_speed_kmh": 82, "price": 1400}
+        },
+        "Bajaj": {
+            "Chetak EV": {"capacity_kwh": 2.9, "efficiency_wh_km": 32, "top_speed_kmh": 70, "price": 1600}
+        },
+        "Revolt": {
+            "RV400": {"capacity_kwh": 3.24, "efficiency_wh_km": 22, "top_speed_kmh": 85, "price": 1300}
+        },
+        "Ultraviolette": {
+            "F77": {"capacity_kwh": 10.3, "efficiency_wh_km": 35, "top_speed_kmh": 152, "price": 4500}
+        },
+        "Simple": {
+            "One": {"capacity_kwh": 5.0, "efficiency_wh_km": 24, "top_speed_kmh": 105, "price": 1700}
+        },
+        "Hero": {
+            "Vida V1 Pro": {"capacity_kwh": 3.94, "efficiency_wh_km": 27, "top_speed_kmh": 80, "price": 1500}
+        },
+        "Okinawa": {
+            "PraisePro": {"capacity_kwh": 2.0, "efficiency_wh_km": 20, "top_speed_kmh": 58, "price": 1000}
+        },
+        "Oben": {
+            "Rorr": {"capacity_kwh": 4.4, "efficiency_wh_km": 22, "top_speed_kmh": 100, "price": 1400}
+        }
+    }
+}
